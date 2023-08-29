@@ -1,0 +1,71 @@
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\appsettings.json
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.exe
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.deps.json
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.runtimeconfig.json
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.pdb
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.pdb
+C:\Users\mbang\source\repos\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.csproj.AssemblyReference.cache
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.AssemblyInfoInputs.cache
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.AssemblyInfo.cs
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.csproj.CoreCompileInputs.cache
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\scopedcss\bundle\CloudCommonInterface.styles.css
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.csproj.CopyComplete
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\refint\CloudCommonInterface.dll
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.pdb
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.genruntimeconfig.cache
+C:\Users\mbang\source\repos\CloudCommonInterface\obj\Debug\net6.0\ref\CloudCommonInterface.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.csproj.AssemblyReference.cache
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.AssemblyInfoInputs.cache
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.AssemblyInfo.cs
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.csproj.CoreCompileInputs.cache
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\appsettings.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.exe
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.deps.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.runtimeconfig.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\AWSSDK.S3.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.Common.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.Services.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.Common.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\bin\Debug\net6.0\CloudCommonInterface.Services.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets\msbuild.CloudCommonInterface.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets\msbuild.build.CloudCommonInterface.props
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CloudCommonInterface.props
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CloudCommonInterface.props
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\scopedcss\bundle\CloudCommonInterface.styles.css
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.csproj.CopyComplete
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\refint\CloudCommonInterface.dll
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\CloudCommonInterface.genruntimeconfig.cache
+C:\Users\pabhilash\source\repos\ZIp folder\CloudCommonInterface\obj\Debug\net6.0\ref\CloudCommonInterface.dll

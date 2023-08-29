@@ -1,0 +1,24 @@
+C:\Users\mbang\source\repos\AWSServices\bin\Debug\net6.0\CloudCommonInterface.AWSServices.deps.json
+C:\Users\mbang\source\repos\AWSServices\bin\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\mbang\source\repos\AWSServices\bin\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.csproj.AssemblyReference.cache
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.AssemblyInfoInputs.cache
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.AssemblyInfo.cs
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.csproj.CoreCompileInputs.cache
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\refint\CloudCommonInterface.AWSServices.dll
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\mbang\source\repos\AWSServices\obj\Debug\net6.0\ref\CloudCommonInterface.AWSServices.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\bin\Debug\net6.0\CloudCommonInterface.AWSServices.deps.json
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\bin\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\bin\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.csproj.AssemblyReference.cache
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.AssemblyInfoInputs.cache
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.AssemblyInfo.cs
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.csproj.CoreCompileInputs.cache
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\refint\CloudCommonInterface.AWSServices.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\AWSServices\obj\Debug\net6.0\ref\CloudCommonInterface.AWSServices.dll

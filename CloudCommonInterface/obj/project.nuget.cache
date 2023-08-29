@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "+p/Iwzv6ayO2bMpvPEriUxVAeKFK2XdgXOAb6qvcFPoqSEcxMu7+RRHLopCQ9638ZUhzJcB4fp+aQxXxITD0Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pabhilash\\source\\repos\\ZIp folder\\CloudCommonInterface\\CloudCommonInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pabhilash\\.nuget\\packages\\awssdk.core\\3.7.201.1\\awssdk.core.3.7.201.1.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\awssdk.s3\\3.7.202.1\\awssdk.s3.3.7.202.1.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
