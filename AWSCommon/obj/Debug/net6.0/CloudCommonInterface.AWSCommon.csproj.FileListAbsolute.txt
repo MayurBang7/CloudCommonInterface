@@ -1,0 +1,30 @@
+C:\Users\mbang\source\repos\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.deps.json
+C:\Users\mbang\source\repos\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.dll
+C:\Users\mbang\source\repos\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.pdb
+C:\Users\mbang\source\repos\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\mbang\source\repos\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.csproj.AssemblyReference.cache
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.AssemblyInfoInputs.cache
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.AssemblyInfo.cs
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.csproj.CoreCompileInputs.cache
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.csproj.CopyComplete
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.dll
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\refint\CloudCommonInterface.AWSCommon.dll
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.pdb
+C:\Users\mbang\source\repos\AWSCommon\obj\Debug\net6.0\ref\CloudCommonInterface.AWSCommon.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.deps.json
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSCommon.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSServices.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\bin\Debug\net6.0\CloudCommonInterface.AWSServices.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.csproj.AssemblyReference.cache
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.AssemblyInfoInputs.cache
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.AssemblyInfo.cs
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.csproj.CoreCompileInputs.cache
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.csproj.CopyComplete
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\refint\CloudCommonInterface.AWSCommon.dll
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\CloudCommonInterface.AWSCommon.pdb
+C:\Users\pabhilash\source\repos\ZIp folder\AWSCommon\obj\Debug\net6.0\ref\CloudCommonInterface.AWSCommon.dll

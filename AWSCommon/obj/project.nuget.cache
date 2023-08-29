@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lzZS7iUxvzxfs1odc/HALhhuirkTTJx0g75ak2dEyo7mlKdG8EmVuAJg4ji7S4TBFL+VgFYX5g9ZebPDoulDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pabhilash\\source\\repos\\ZIp folder\\AWSCommon\\CloudCommonInterface.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pabhilash\\.nuget\\packages\\awssdk.core\\3.7.201.1\\awssdk.core.3.7.201.1.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\awssdk.s3\\3.7.202.1\\awssdk.s3.3.7.202.1.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\pabhilash\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
